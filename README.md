@@ -1,4 +1,4 @@
-# Boston Airbnb Listings Analysis
+# Boston Airbnb Listings Analysis - Udacity Data Science Nanodegree Project
 This repository contains a Python script for analyzing the Boston Airbnb listings dataset. The script focuses on two main aspects:
 1. Answering specific questions about the characteristics of Airbnb listings in different neighborhoods.
 2. Identifying features that most significantly influence the listing prices.
